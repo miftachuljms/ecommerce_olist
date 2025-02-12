@@ -1,8 +1,9 @@
 # Retail Sales Analysis SQL Project
 
-## [Dataset Link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)
-## [Blog Link](https://medium.com/@miftachuljms/data-analysis-analyzing-brazilian-e-commerce-by-olist-7a24dddefbc2)
-## [Dashboard Link](https://public.tableau.com/app/profile/miftachul.jannah.meilina.subekti/viz/OlistBrazilianEcommerceDashboard/DashboardRFMTrendline)
+## Link
+1. [Dataset Link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)
+2. [Blog Link](https://medium.com/@miftachuljms/data-analysis-analyzing-brazilian-e-commerce-by-olist-7a24dddefbc2)
+3. [Dashboard Link](https://public.tableau.com/app/profile/miftachul.jannah.meilina.subekti/viz/OlistBrazilianEcommerceDashboard/DashboardRFMTrendline)
 
 ## Project Overview
 
